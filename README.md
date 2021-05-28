@@ -20,7 +20,7 @@
 <h2 align="center">Podcast ⚡️</h2>
 
 <p align="center">
-  <a align="center" href="https://anchor.fm/stupidamente"><img src="https://github.com/Mirko-r/Mirko-r/blob/main/podcast.svg" > 
+  <a align="center" href="https://anchor.fm/stupidamente"><img src="https://github.com/Mirko-r/Mirko-r/blob/main/icons/podcast.svg" > 
 </p>
 
 <h2 align="center">Repositories</h2>
