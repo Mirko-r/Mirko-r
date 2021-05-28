@@ -17,17 +17,16 @@
 </h5>
 <br>
 <br>
-<div align="right">
-  <p align="left">
-    💻 I love writing code and learn anythings about it
-    <br>
-    <br>
-    🔬 I’m currently working on C, C++, bash and Python
-    <br>
-    <br>
-    📫 How to reach me: <a href="mailto: 04mirko@libero.it">04mirko@libero.it</a>
-  </p>
-</div>
+<p align="center">
+  💻 I love writing code and learn anythings about it
+  <br>
+  <br>
+  🔬 I’m currently working on C, C++, bash and Python
+  <br>
+  <br>
+  📫 How to reach me: <a href="mailto: 04mirko@libero.it">04mirko@libero.it</a>
+</p>
+
 <br>
 <br>
 <p align="center">
@@ -37,10 +36,10 @@
 <br>
 <p>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Mirko-r&show_icons=true&include_all_commits=true&theme=dark" alt="Mirko's github stats" />
+   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Mirko-r&show_icons=true&include_all_commits=true&theme=dark&border=10dafb" alt="Mirko's github stats" />
  </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mirko-r&layout=compact&theme=dark">
+   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mirko-r&layout=compact&theme=dark&border=10dafb">
  </a>
  <br>
  <br>
