@@ -21,7 +21,7 @@
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="center" href="https://github.com/Mirko-r/extractor" title="extractor"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=extractor&theme=react&border=10dafb"></a>
+  <a align="center" href="https://github.com/Mirko-r/extractor" title="extractor"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=extractor&theme=dark&border=10dafb"></a>
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -29,20 +29,20 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Mirko-r&theme=react&border=61dafb&hide_border=true" alt="Mirko-r" />
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Mirko-r&theme=dark&border=61dafb&hide_border=true" alt="Mirko-r" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Mirko-r&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Mirko-r&show_icons=true&theme=dark&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&theme=dark&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Mirko-r&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Mirko-r&theme=dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <br><br>
 <h4 align="center"><a href=https://github.com/Mirko-r?tab="repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
