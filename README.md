@@ -14,8 +14,6 @@
   📫 How to reach me: <a href="mailto: 04mirko@libero.it">04mirko@libero.it</a>
 </p>
 
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
-
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
