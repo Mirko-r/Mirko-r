@@ -17,6 +17,11 @@
   <br>
   📫 How to reach me: <a href="mailto: 04mirko@libero.it">04mirko@libero.it</a>
 </p>
+<h2 align="center">Podcast ⚡️</h2>
+
+<p align="center">
+  <a align="center" href="https://anchor.fm/stupidamente"><img src="https://github.com/Mirko-r/Mirko-r/blob/main/podcast.svg" > 
+</p>
 
 <h2 align="center">Repositories</h2>
 
