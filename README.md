@@ -24,13 +24,13 @@
   🔬 I’m currently working on C, C++, bash and Python
   <br>
   <br>
-  📫 How to reach me: <a href="mailto: 04mirko@libero.it">04mirko@libero.it</a>
+  📫 How to reach me: <a href="https://mirko-r.github.io/index.html">04mirko@libero.it</a>
 </p>
 
 <br>
 <br>
 <p align="center">
-  <a align="center" href="https://anchor.fm/stupidamente"><img src="https://github.com/Mirko-r/Mirko-r/blob/main/icons/podcast.svg" > 
+  <a align="center" href="https://mirko-r.github.io">My site</a>
 </p>
 <br>
 <br>
