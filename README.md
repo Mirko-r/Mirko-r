@@ -24,7 +24,7 @@
   🔬 I’m currently working on C, C++, bash and Python
   <br>
   <br>
-  📫 How to reach me: <a href="https://mirko-r.github.io/index.html">04mirko@libero.it</a>
+  📫 How to reach me: <a href="https://mirko-r.github.io/contact/index.html">04mirko@libero.it</a>
 </p>
 
 <br>
