@@ -49,6 +49,9 @@
   <a href="https://github.com/Mirko-r/mirko-r.github.io" title="My site">
    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=mirko-r.github.io&theme=dark&border=10dafb">
  </a>
+  <a href="https://github.com/Mirko-r/pyWeather" title="extractor">
+   <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=pyWeather&theme=dark&border=10dafb">
+ </a>
 </p>
 <h4 align="center">
   <a href=https://github.com/Mirko-r?tab="repositories" title="Show Repositories">🔎 Show More 🔍</a>
