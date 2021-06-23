@@ -39,21 +39,21 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mirko-r&show_icons=true&theme=light&line_height=27" alt="Mirko's github stats"/>
 </a>
  <a href="https://github.com/Mirko-r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&theme=light" />
 </a>
  <br>
  <br>
  <a href="https://github.com/Mirko-r/extractor" title="extractor">
-   <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=extractor&theme=dark&border=10dafb">
+   <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=extractor&theme=light&border=10dafb">
  </a>
   <a href="https://github.com/Mirko-r/mirko-r.github.io" title="My site">
-   <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=mirko-r.github.io&theme=dark&border=10dafb">
+   <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=mirko-r.github.io&theme=light&border=10dafb">
  </a>
   <a href="https://github.com/Mirko-r/pyWeather" title="pyWeather">
-   <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=pyWeather&theme=dark&border=10dafb">
+   <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=pyWeather&theme=light&border=10dafb">
  </a>
   <a href="https://github.com/Mirko-r/Notepy" title="Notepy">
-   <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=Notepy&theme=dark&border=10dafb">
+   <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=Notepy&theme=light&border=10dafb">
  </a>
 </p>
 <h4 align="center">
