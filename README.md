@@ -35,9 +35,9 @@
 <br>
 <br>
 <p>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Mirko-r&show_icons=true&include_all_commits=true&theme=dark&border=10dafb" alt="Mirko's github stats" />
- </a>
+ <a href="https://github.com/Mirko-r">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mirko-r&show_icons=true&theme=light&line_height=27" alt="Mirko's github stats"/>
+</a>
  <a href="https://github.com/Mirko-r">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&theme=light&hide_langs_below=1" />
 </a>
