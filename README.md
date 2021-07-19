@@ -43,6 +43,9 @@
 </a>
  <br>
  <br>
+   <a href="https://github.com/Mirko-r/Notepy" title="Notepy">
+   <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=Notepy&theme=light&border=10dafb">
+ </a>
  <a href="https://github.com/Mirko-r/extractor" title="extractor">
    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=extractor&theme=light&border=10dafb">
  </a>
@@ -51,9 +54,6 @@
  </a>
   <a href="https://github.com/Mirko-r/pyWeather" title="pyWeather">
    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=pyWeather&theme=light&border=10dafb">
- </a>
-  <a href="https://github.com/Mirko-r/Notepy" title="Notepy">
-   <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=Notepy&theme=light&border=10dafb">
  </a>
 </p>
 <h4 align="center">
