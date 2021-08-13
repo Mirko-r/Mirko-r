@@ -50,6 +50,9 @@
   <a href="https://github.com/Mirko-r/pyWeather" title="pyWeather">
    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=pyWeather&theme=light&border=10dafb">
  </a>
+  a href="https://github.com/Mirko-r/dotfiles" title="My dotfiles">
+   <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mirko-r&repo=dotfilesr&theme=light&border=10dafb">
+ </a>
 </p>
 <h4 align="center">
   <a href=https://github.com/Mirko-r?tab="repositories" title="Show Repositories">🔎 Show More 🔍</a>
