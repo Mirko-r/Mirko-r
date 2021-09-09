@@ -15,18 +15,9 @@
    </a>
  </code>
 </h5>
-<br>
-<br>
-<p align="center">
-  💻 I love writing code and learn anythings about it
-  <br>
-  <br>
-  🔬 I’m currently working on C, C++, bash and Python
-  <br>
-  <br>
-  📫 How to reach me: <a href="https://mirko-r.github.io/contact/index.html">04mirko@libero.it</a>
-  <h3 align="center">Languages and Tools:</h3>
-  <br>
+<div align="center">
+  <img src="https://metrics.lecoq.io/Mirko-r?template=classic&base.metadata=0&isocalendar=1&languages=1&introduction=1&people=1&lines=1&achievements=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FRome" />
+  </div>
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -47,26 +38,6 @@
 <br>
 <br>
 <p>
-<h1 align="center"> My stats </h1>
-  <div align="center">
-  <br>
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate">    <img  alt="Mirko-r's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mirko-r?cardType=level-alternate" />  </a>
-  <br>
-   <table>
-     <br>
-  <td align="center">
-    <details><summary>My most used languages</summary>
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&langs_count=10" />
-    </details>
-    <details><summary> My archievements</summary>
-      <br>
-      <img src="https://metrics.lecoq.io/Mirko-r?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FRome" />
-    </details>
-    <img width="900" height="1" alt="">
-  </td>
-</table>
-  </div>
  <br>
  <br>
    <a href="https://github.com/Mirko-r/Notepy" title="Notepy">
