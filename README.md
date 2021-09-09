@@ -47,16 +47,25 @@
 <br>
 <br>
 <p>
-  <h1 align="center"> My stats </h1>
+<h1 align="center"> My stats </h1>
   <div align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate">    <img  alt="Mirko-r's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mirko-r?cardType=level-alternate" />  </a>
-  </div>
   <br>
-  <div align="center">
-    <h2>My most used languages</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&langs_count=10" />
-  <h2> My trophies </h2>
-<img src="https://github-profile-trophy.vercel.app/?username=mirko-r" alt="mirko-r" /> 
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate">    <img  alt="Mirko-r's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mirko-r?cardType=level-alternate" />  </a>
+  <br>
+   <table>
+     <br>
+  <td align="center">
+    <details><summary>My most used languages</summary>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&langs_count=10" />
+    </details>
+    <details><summary> My archievements</summary>
+      <br>
+      <img src="https://metrics.lecoq.io/Mirko-r?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FRome" />
+    </details>
+    <img width="900" height="1" alt="">
+  </td>
+</table>
   </div>
  <br>
  <br>
