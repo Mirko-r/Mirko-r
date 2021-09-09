@@ -48,6 +48,9 @@
 <br>
 <p>
   <h1 align="center"> My stats </h1>
+  <div align="center">
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate">    <img  alt="Mirko-r's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mirko-r?cardType=level-alternate" />  </a>
+  </div>
   <br>
   <div align="center">
     <h2>My most used languages</h2>
