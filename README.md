@@ -10,6 +10,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mirko-r&theme=gitdimme&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#3](https://github.com/Mirko-r/Notepy/issues/3) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
+2. 🗣 Commented on [#3](https://github.com/Mirko-r/Notepy/issues/3) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
+3. 🗣 Commented on [#3](https://github.com/Mirko-r/Notepy/issues/3) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
+4. ❗️ Reopened issue [#3](https://github.com/Mirko-r/Notepy/issues/3) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
+5. ❗️ Closed issue [#2](https://github.com/Mirko-r/Notepy/issues/2) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
 <!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4409%20lines%20of%20code-blue)
