@@ -1,5 +1,6 @@
 #
 
+## My trophies 🏆 
 ![helllo](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mirko+Rovere&center=true&size=30)
 
 ## 👩‍💻 Languages
