@@ -2,15 +2,7 @@
 
 ![helllo](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mirko+Rovere&center=true&size=30)
 
-## Github stats 📊
-
-### Visitor's count 👀
-
-![Mirko :: Visitor's count](https://profile-counter.glitch.me/{Mirko-r}/count.svg)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mirko-r&theme=gitdimme&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 🔔
+## My latest github activity 🔔
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#3](https://github.com/Mirko-r/Notepy/issues/3) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
 2. 🗣 Commented on [#3](https://github.com/Mirko-r/Notepy/issues/3) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
@@ -18,6 +10,14 @@
 4. ❗️ Reopened issue [#3](https://github.com/Mirko-r/Notepy/issues/3) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
 5. ❗️ Closed issue [#2](https://github.com/Mirko-r/Notepy/issues/2) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
 <!--END_SECTION:activity-->
+
+## Github stats 📊
+
+### Visitor's count 👀
+
+![Mirko :: Visitor's count](https://profile-counter.glitch.me/{Mirko-r}/count.svg)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mirko-r&theme=gitdimme&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4409%20lines%20of%20code-blue)
