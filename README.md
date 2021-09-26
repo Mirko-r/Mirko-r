@@ -34,7 +34,8 @@
 <a href="https://www.vim.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="Vim" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual studio code" width="40" height="40"/> </a>
 </p>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <br>
 <br>
 <p>
