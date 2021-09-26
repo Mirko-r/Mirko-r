@@ -35,6 +35,37 @@
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual studio code" width="40" height="40"/> </a>
 </p>
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 894 Contributions in the Year 2021
+ > 
+> 📦 18.0 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+Shell                    1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+CSS                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Vim script               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
+
+
+ Last Updated on 26/09/2021
 <!--END_SECTION:waka-->
 <br>
 <br>
