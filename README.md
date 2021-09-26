@@ -9,7 +9,8 @@
 ![Mirko :: Visitor's count](https://profile-counter.glitch.me/{Mirko-r}/count.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mirko-r&theme=gitdimme&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4409%20lines%20of%20code-blue)
 
