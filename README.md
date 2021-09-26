@@ -1,7 +1,7 @@
 #
 
 ![helllo](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mirko+Rovere&center=true&size=30)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mirko-r&theme=gitdimme&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -37,6 +37,5 @@ Vim script               1 repo              █████░░░░░░�
 
  Last Updated on 26/09/2021
 <!--END_SECTION:waka-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mirko-r&theme=gitdimme&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [🔎 Show More 🔍](https://github.com/Mirko-r?tab="repositories")
