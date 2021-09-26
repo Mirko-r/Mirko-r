@@ -1,6 +1,5 @@
 #
 
-## My trophies 🏆 
 ![helllo](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mirko+Rovere&center=true&size=30)
 
 ## 👩‍💻 Languages
@@ -25,6 +24,8 @@
 ### Visitor's count 👀
 
 ![Mirko :: Visitor's count](https://profile-counter.glitch.me/{Mirko-r}/count.svg)
+
+## My trophies 🏆 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mirko-r&theme=gitdimme&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
