@@ -53,4 +53,9 @@ Vim script               1 repo              █████░░░░░░�
  Last Updated on 26/09/2021
 <!--END_SECTION:waka-->
 
+### 📈 GitHub Activity Graph
+
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mirko-r&theme=github)
+
+
 [🔎 Show More 🔍](https://github.com/Mirko-r?tab="repositories")
