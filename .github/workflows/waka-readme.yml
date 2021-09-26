@@ -1,8 +1,6 @@
 name: Waka Readme
 
 on:
-  push:
-    branches: [main]
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
@@ -20,7 +18,7 @@ jobs:
           SHOW_PROJECTS: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_EDITORS: "True"
+          SHOW_EDITORS: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_COMMIT: "True"
           
