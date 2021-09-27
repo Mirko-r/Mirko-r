@@ -30,11 +30,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mirko-r&theme=gitdimme&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4409%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4419%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 919 Contributions in the Year 2021
+> 🏆 924 Contributions in the Year 2021
  > 
 > 📦 18.1 kB Used in GitHub's Storage 
  > 
@@ -60,7 +60,7 @@ Vim script               1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2021
+ Last Updated on 27/09/2021
 <!--END_SECTION:waka-->
 
 ### 📈 GitHub Activity Graph
