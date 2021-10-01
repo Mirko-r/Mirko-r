@@ -19,6 +19,6 @@ jobs:
           SHOW_TIMEZONE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_EDITORS: "False"
+          SHOW_EDITORS: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_COMMIT: "True"
