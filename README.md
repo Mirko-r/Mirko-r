@@ -12,7 +12,7 @@
 
 ## My latest github activity 🔔
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/Mirko-r/Notepy/issues/3) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
+1. 🎉 Merged PR [#5](https://github.com/Mirko-r/Notepy/pull/5) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
 2. 🗣 Commented on [#3](https://github.com/Mirko-r/Notepy/issues/3) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
 3. 🗣 Commented on [#3](https://github.com/Mirko-r/Notepy/issues/3) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
 4. ❗️ Reopened issue [#3](https://github.com/Mirko-r/Notepy/issues/3) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
