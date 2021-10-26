@@ -30,7 +30,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mirko-r&theme=gitdimme&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12420%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12500%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -48,8 +48,8 @@
 
 ```text
 🌞 Morning    176 commits    █████████░░░░░░░░░░░░░░░░   35.77% 
-🌆 Daytime    263 commits    █████████████░░░░░░░░░░░░   53.46% 
-🌃 Evening    53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
+🌆 Daytime    262 commits    █████████████░░░░░░░░░░░░   53.25% 
+🌃 Evening    54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.98% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
