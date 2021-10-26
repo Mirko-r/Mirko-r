@@ -99,7 +99,7 @@ Windows                  12 mins             ██░░░░░░░░░�
 
 ### 📈 GitHub Activity Graph
 
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mirko-r&theme=github)
+![Metrics](https://metrics.lecoq.io/Mirko-r?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FRome)
 
 
 [🔎 Show More 🔍](https://github.com/Mirko-r?tab="repositories")
