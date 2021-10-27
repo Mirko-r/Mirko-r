@@ -4,11 +4,11 @@
 
 ![gif](https://github.com/M0-san/M0-san/blob/master/coding.gif?raw=true)
 
+![Metrics](https://metrics.lecoq.io/Mirko-r?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&rss=1&isocalendar.duration=half-year&languages.limit=30&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=true&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&rss.source=https%3A%2F%2Fanchor.fm%2Fs%2F3e44e330%2Fpodcast%2Frss&rss.limit=4&config.timezone=Europe%2FRome)
+
 ## 👩‍💻 Languages
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-![Metrics](https://metrics.lecoq.io/Mirko-r?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=20&languages.sections=most-used&languages.colors=github&languages.details=bytes-size%2C%20percentage&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FRome)
 
 ## 💻 OS
 
@@ -100,10 +100,6 @@ Linux                    33 mins             █████████░░�
 
  Last Updated on 27/10/2021
 <!--END_SECTION:waka-->
-
-### 📈 GitHub Activity Graph
-
-![Metrics](https://metrics.lecoq.io/Mirko-r?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FRome)
 
 
 [🔎 Show More 🔍](https://github.com/Mirko-r?tab="repositories")
