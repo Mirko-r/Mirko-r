@@ -96,7 +96,7 @@ Linux                    33 mins             █████████░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/10/2021
+ Last Updated on 27/10/2021
 <!--END_SECTION:waka-->
 
 ### 📈 GitHub Activity Graph
