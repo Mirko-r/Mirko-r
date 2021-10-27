@@ -34,11 +34,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10396%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10603%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,065 Contributions in the Year 2021
+> 🏆 1,100 Contributions in the Year 2021
  > 
 > 📦 74.4 kB Used in GitHub's Storage 
  > 
@@ -62,9 +62,9 @@
 ```text
 Monday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
 Tuesday      111 commits    █████░░░░░░░░░░░░░░░░░░░░   22.11% 
-Wednesday    65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
+Wednesday    72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
 Thursday     38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.57% 
-Friday       129 commits    ██████░░░░░░░░░░░░░░░░░░░   25.7% 
+Friday       122 commits    ██████░░░░░░░░░░░░░░░░░░░   24.3% 
 Saturday     37 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.37% 
 Sunday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35%
 
