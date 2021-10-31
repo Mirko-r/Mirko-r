@@ -4,7 +4,7 @@
 
 ![gif](https://github.com/M0-san/M0-san/blob/master/coding.gif?raw=true)
 
-![Metrics](https://metrics.lecoq.io/Mirko-r?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&rss=1&isocalendar.duration=half-year&languages.limit=30&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=true&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&rss.source=https%3A%2F%2Fanchor.fm%2Fs%2F3e44e330%2Fpodcast%2Frss&rss.limit=4&config.timezone=Europe%2FRome)
+![Metrics](https://metrics.lecoq.io/Mirko-r?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&rss=1&isocalendar.duration=half-year&languages.limit=80&languages.sections=most-used&languages.colors=github&languages.details=bytes-size%2C%20percentage&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&rss.source=https%3A%2F%2Fanchor.fm%2Fs%2F3e44e330%2Fpodcast%2Frss&rss.limit=4&config.timezone=Europe%2FRome)
 
 ## 👩‍💻 Languages
 
