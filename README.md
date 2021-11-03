@@ -34,7 +34,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mirko-r)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10807%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10738%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,14 +57,14 @@
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday       50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
 Tuesday      104 commits    █████░░░░░░░░░░░░░░░░░░░░   20.08% 
-Wednesday    74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Wednesday    76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
 Thursday     32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.18% 
-Friday       110 commits    █████░░░░░░░░░░░░░░░░░░░░   21.24% 
+Friday       108 commits    █████░░░░░░░░░░░░░░░░░░░░   20.85% 
 Saturday     38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.34% 
 Sunday       110 commits    █████░░░░░░░░░░░░░░░░░░░░   21.24%
 
