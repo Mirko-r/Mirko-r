@@ -34,7 +34,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mirko-r)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10820%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10825%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -51,8 +51,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    186 commits    █████████░░░░░░░░░░░░░░░░   35.91% 
-🌆 Daytime    260 commits    ████████████░░░░░░░░░░░░░   50.19% 
+🌞 Morning    184 commits    █████████░░░░░░░░░░░░░░░░   35.52% 
+🌆 Daytime    262 commits    ████████████░░░░░░░░░░░░░   50.58% 
 🌃 Evening    72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
