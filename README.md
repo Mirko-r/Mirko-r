@@ -96,7 +96,7 @@ Linux                    8 hrs 58 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2021
+ Last Updated on 06/11/2021
 <!--END_SECTION:waka-->
 
 
