@@ -5,7 +5,7 @@
 ![gif](https://github.com/M0-san/M0-san/blob/master/coding.gif?raw=true)
 
 ## 🔍Can find me on
-[![instagram.com](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mirko_rovere?utm_medium=copy_link)
+[![instagram.com](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mirko_rovere/)
 
 ## 💲Support my work
 
