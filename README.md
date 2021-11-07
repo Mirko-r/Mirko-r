@@ -34,11 +34,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mirko-r)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4384%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 1,347 Contributions in the Year 2021
+> 🏆 1,357 Contributions in the Year 2021
  > 
 > 📦 79.1 kB Used in GitHub's Storage 
  > 
@@ -74,8 +72,6 @@ Sunday       120 commits    █████░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Rome
-
 💬 Programming Languages: 
 Bash                     3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   30.86% 
 sh                       1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.06% 
@@ -91,6 +87,18 @@ Emacs                    2 hrs 7 mins        █████░░░░░░�
 Linux                    10 hrs 46 mins      █████████████████████████   100.0%
 
 ```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ███████████░░░░░░░░░░░░░░   44.44% 
+Shell                    2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Emacs Lisp               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
 
 **Timeline**
 
