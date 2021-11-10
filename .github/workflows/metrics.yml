@@ -13,6 +13,7 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          template: none
+          plugin_introduction: no
+          
           # Your GitHub token
           token: ${{ secrets.GH_TOKEN }}
