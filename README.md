@@ -27,8 +27,6 @@
 
 ## Github stats 📊
 
-![Metrics](https://github.com/Mirko-r/Mirko-r/blob/main/github-metrics.svg)
-
 ## My trophies 🏆 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mirko-r)](https://github.com/ryo-ma/github-profile-trophy)
