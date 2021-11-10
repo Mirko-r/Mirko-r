@@ -21,23 +21,13 @@
 
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) ![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![pop](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) ![elementary](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white) ![zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
 
-## My latest github activity 🔔
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Mirko-r/Notepy/pull/5) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
-2. 🗣 Commented on [#3](https://github.com/Mirko-r/Notepy/issues/3) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
-3. 🗣 Commented on [#3](https://github.com/Mirko-r/Notepy/issues/3) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
-4. ❗️ Reopened issue [#3](https://github.com/Mirko-r/Notepy/issues/3) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
-5. ❗️ Closed issue [#2](https://github.com/Mirko-r/Notepy/issues/2) in [Mirko-r/Notepy](https://github.com/Mirko-r/Notepy)
-<!--END_SECTION:activity-->
+### Visitor's count 👀
+
+![Mirko :: Visitor's count](https://profile-counter.glitch.me/{Mirko-r}/count.svg)
 
 ## Github stats 📊
 
 ![Metrics](https://github.com/Mirko-r/Mirko-r/blob/main/github-metrics.svg)
-
-
-### Visitor's count 👀
-
-![Mirko :: Visitor's count](https://profile-counter.glitch.me/{Mirko-r}/count.svg)
 
 ## My trophies 🏆 
 
