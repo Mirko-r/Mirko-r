@@ -9,38 +9,39 @@
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/58cchaSIqWwuQ9pRYeX4kY)
 [![google podcast](https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white)](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zZTQ0ZTMzMC9wb2RjYXN0L3Jzcw==)
 
-## 💲Support my work
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Support&height=150&fontSize=60&desc=My%20Work&descAlignY=75&descAlign=60)
 
 [![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/stupidamentepod)
 
-## 👩‍💻 Languages that i know
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Language&height=150&fontSize=60&desc=That%20I%20Know&descAlignY=75&descAlign=60)
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DFE) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
-## 👩‍💻💻 Other stuffs that i know
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Other%20Stuffs&height=150&fontSize=60&desc=That%20I%20Know&descAlignY=75&descAlign=60)
+
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 
-## 💻 OS which I use
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=OS&height=150&fontSize=60&desc=That%20I%20Know&descAlignY=75&descAlign=60)
 
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) ![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![pop](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) ![elementary](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white) ![zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
 
-### Visitor's count 👀
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Visitor's&height=150&fontSize=60&desc=Count&descAlignY=75&descAlign=60)
 
 ![Mirko :: Visitor's count](https://profile-counter.glitch.me/{Mirko-r}/count.svg)
 
-## Github stats 📊
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My&height=150&fontSize=60&desc=Trophies&descAlignY=75&descAlign=60)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mirko-r)](https://github.com/ryo-ma/github-profile-trophy)
+
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Github&height=150&fontSize=60&desc=Stats&descAlignY=75&descAlign=60)
 
 ![Metrics](https://metrics.lecoq.io/Mirko-r?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=80&languages.sections=most-used&languages.colors=github&languages.details=bytes-size%2C%20percentage&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=3000&languages.recent.days=14&config.timezone=Europe%2FRome)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirko-r&theme=dracula)
-
-## My trophies 🏆 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mirko-r)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
@@ -71,8 +72,8 @@ Monday       46 commits     ██░░░░░░░░░░░░░░░�
 Tuesday      105 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
 Wednesday    103 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.39% 
 Thursday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
-Friday       97 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
-Saturday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.93% 
+Friday       100 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
+Saturday     19 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
 Sunday       137 commits    ██████░░░░░░░░░░░░░░░░░░░   24.46%
 
 ```
