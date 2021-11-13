@@ -29,6 +29,8 @@
 
 ![Metrics](https://metrics.lecoq.io/Mirko-r?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=80&languages.sections=most-used&languages.colors=github&languages.details=bytes-size%2C%20percentage&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=3000&languages.recent.days=14&config.timezone=Europe%2FRome)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirko-r&theme=dracula)
+
 ## My trophies 🏆 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mirko-r)](https://github.com/ryo-ma/github-profile-trophy)
