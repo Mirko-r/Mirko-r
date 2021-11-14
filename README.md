@@ -1,13 +1,18 @@
 #
-
+ 
+<div align="center">
+ 
 ![helllo](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mirko+Rovere&center=true&size=30)
 
 ![gif](https://github.com/M0-san/M0-san/blob/master/coding.gif?raw=true)
 
+ 
 [![instagram.com](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mirko_rovere/)
 [![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/mirkou)
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/58cchaSIqWwuQ9pRYeX4kY)
 [![google podcast](https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white)](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zZTQ0ZTMzMC9wb2RjYXN0L3Jzcw==)
+
+</div>
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Support&height=150&fontSize=60&desc=My%20Work&descAlignY=75&descAlign=60)
 
