@@ -73,6 +73,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirko-r&theme=dracula)
 
+</div>
+
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
@@ -152,5 +154,3 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 
 [🔎 Show More 🔍](https://github.com/Mirko-r?tab="repositories")
-
-</div>
