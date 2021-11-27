@@ -82,7 +82,7 @@
 
 > 🏆 1,494 Contributions in the Year 2021
  > 
-> 📦 84.8 kB Used in GitHub's Storage 
+> 📦 84.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -150,7 +150,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/11/2021
+ Last Updated on 27/11/2021
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
