@@ -70,10 +70,8 @@
 <div align="center">
 
 ![Metrics](https://metrics.lecoq.io/Mirko-r?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html%2C%20css%2C%20scss&languages.limit=80&languages.sections=most-used&languages.colors=github&languages.details=bytes-size%2C%20percentage&languages.threshold=0%25&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FRome&config.twemoji=true)
- 
-<p>
- <img alt="Mirko Rovere's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mirko-r&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirko-r&theme=dracula)
 
 </div>
 
