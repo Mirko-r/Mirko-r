@@ -76,13 +76,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2038%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 58 Contributions in the Year 2022
+> 🏆 60 Contributions in the Year 2022
  > 
 > 📦 200.2 kB Used in GitHub's Storage 
  > 
@@ -95,8 +95,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    249 commits    ███████████░░░░░░░░░░░░░░   43.53% 
-🌆 Daytime    209 commits    █████████░░░░░░░░░░░░░░░░   36.54% 
+🌞 Morning    248 commits    ██████████░░░░░░░░░░░░░░░   43.36% 
+🌆 Daytime    210 commits    █████████░░░░░░░░░░░░░░░░   36.71% 
 🌃 Evening    114 commits    █████░░░░░░░░░░░░░░░░░░░░   19.93% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -106,11 +106,11 @@
 ```text
 Monday       52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
 Tuesday      99 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
-Wednesday    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
+Wednesday    92 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
 Thursday     57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
 Friday       81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
 Saturday     40 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.99% 
-Sunday       152 commits    ██████░░░░░░░░░░░░░░░░░░░   26.57%
+Sunday       151 commits    ██████░░░░░░░░░░░░░░░░░░░   26.4%
 
 ```
 
@@ -152,7 +152,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/01/2022 15:27:22 UTC
+ Last Updated on 26/01/2022 15:39:56 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
