@@ -76,7 +76,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202%20Thousand%20lines%20of%20code-blue)
 
@@ -95,8 +95,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    247 commits    ██████████░░░░░░░░░░░░░░░   43.11% 
-🌆 Daytime    210 commits    █████████░░░░░░░░░░░░░░░░   36.65% 
+🌞 Morning    246 commits    ██████████░░░░░░░░░░░░░░░   42.93% 
+🌆 Daytime    211 commits    █████████░░░░░░░░░░░░░░░░   36.82% 
 🌃 Evening    116 commits    █████░░░░░░░░░░░░░░░░░░░░   20.24% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -152,7 +152,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2022 15:25:43 UTC
+ Last Updated on 30/01/2022 15:47:04 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
