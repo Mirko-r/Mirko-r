@@ -84,13 +84,13 @@
 
 > 🏆 202 Contributions in the Year 2022
  > 
-> 📦 316.3 kB Used in GitHub's Storage 
+> 📦 316.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 0 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -152,7 +152,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/04/2022 08:45:41 UTC
+ Last Updated on 03/04/2022 09:11:02 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
