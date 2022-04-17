@@ -76,13 +76,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 230 Contributions in the Year 2022
+> 🏆 229 Contributions in the Year 2022
  > 
 > 📦 316.7 kB Used in GitHub's Storage 
  > 
@@ -152,7 +152,7 @@ HTML                     2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/04/2022 14:27:40 UTC
+ Last Updated on 17/04/2022 14:45:36 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
