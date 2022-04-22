@@ -84,7 +84,7 @@
 
 > 🏆 370 Contributions in the Year 2022
  > 
-> 📦 317.4 kB Used in GitHub's Storage 
+> 📦 317.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -152,7 +152,7 @@ HTML                     2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/04/2022 18:00:35 UTC
+ Last Updated on 22/04/2022 18:55:14 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
