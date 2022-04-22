@@ -76,15 +76,15 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 352 Contributions in the Year 2022
+> 🏆 357 Contributions in the Year 2022
  > 
-> 📦 317.2 kB Used in GitHub's Storage 
+> 📦 317.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -96,8 +96,8 @@
 
 ```text
 🌞 Morning    335 commits    ███████████░░░░░░░░░░░░░░   44.67% 
-🌆 Daytime    241 commits    ████████░░░░░░░░░░░░░░░░░   32.13% 
-🌃 Evening    174 commits    █████░░░░░░░░░░░░░░░░░░░░   23.2% 
+🌆 Daytime    251 commits    ████████░░░░░░░░░░░░░░░░░   33.47% 
+🌃 Evening    164 commits    █████░░░░░░░░░░░░░░░░░░░░   21.87% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -108,9 +108,9 @@ Monday       121 commits    ████░░░░░░░░░░░░░�
 Tuesday      118 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
 Wednesday    97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
 Thursday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.07% 
-Friday       120 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+Friday       130 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.33% 
 Saturday     52 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.93% 
-Sunday       174 commits    █████░░░░░░░░░░░░░░░░░░░░   23.2%
+Sunday       164 commits    █████░░░░░░░░░░░░░░░░░░░░   21.87%
 
 ```
 
@@ -152,7 +152,7 @@ HTML                     2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/04/2022 10:12:21 UTC
+ Last Updated on 22/04/2022 10:51:21 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
