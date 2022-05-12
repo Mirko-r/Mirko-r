@@ -82,9 +82,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 420 Contributions in the Year 2022
+> 🏆 419 Contributions in the Year 2022
  > 
-> 📦 318.0 kB Used in GitHub's Storage 
+> 📦 318.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -151,7 +151,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/05/2022 17:45:57 UTC
+ Last Updated on 12/05/2022 17:58:44 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
