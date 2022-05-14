@@ -151,7 +151,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/05/2022 23:54:57 UTC
+ Last Updated on 14/05/2022 00:45:09 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
