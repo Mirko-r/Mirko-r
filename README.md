@@ -76,13 +76,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2056%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 436 Contributions in the Year 2022
+> 🏆 428 Contributions in the Year 2022
  > 
 > 📦 318.9 kB Used in GitHub's Storage 
  > 
@@ -95,8 +95,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    358 commits    ████████████░░░░░░░░░░░░░   47.54% 
-🌆 Daytime    251 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌞 Morning    360 commits    ████████████░░░░░░░░░░░░░   47.81% 
+🌆 Daytime    249 commits    ████████░░░░░░░░░░░░░░░░░   33.07% 
 🌃 Evening    144 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.12% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -105,11 +105,11 @@
 
 ```text
 Monday       109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
-Tuesday      118 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
+Tuesday      116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
 Wednesday    89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.82% 
 Thursday     70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
 Friday       141 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.73% 
-Saturday     74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.83% 
+Saturday     76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.09% 
 Sunday       152 commits    █████░░░░░░░░░░░░░░░░░░░░   20.19%
 
 ```
@@ -152,7 +152,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/06/2022 05:54:30 UTC
+ Last Updated on 04/06/2022 06:12:08 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
