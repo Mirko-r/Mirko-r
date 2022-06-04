@@ -76,7 +76,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2016%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104%20Thousand%20lines%20of%20code-blue)
 
@@ -105,11 +105,11 @@
 
 ```text
 Monday       106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
-Tuesday      115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.27% 
+Tuesday      114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.14% 
 Wednesday    89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.82% 
 Thursday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.03% 
 Friday       141 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.73% 
-Saturday     82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.89% 
+Saturday     83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
 Sunday       152 commits    █████░░░░░░░░░░░░░░░░░░░░   20.19%
 
 ```
@@ -152,7 +152,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/06/2022 08:33:53 UTC
+ Last Updated on 04/06/2022 08:46:09 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
