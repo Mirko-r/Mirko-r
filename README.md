@@ -80,7 +80,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
 
-**📊 Global GitHub data** 
+**📊 My GitHub data** 
 
 ```text
 🏆 459 contributions in 2022
@@ -151,7 +151,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 07:57:32 UTC
+ Last Updated on 12/06/2022 08:12:25 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
