@@ -80,19 +80,18 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**📊 Global GitHub data** 
 
-> 🏆 459 Contributions in the Year 2022
+```text
+🏆 459 contributions in 2022
+
+📦 358.9 kB used in GitHub's storage 
+
+📜 15 Public Repositories 
+
+🔑 0 Private Repositories  
  > 
-> 📦 358.9 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm an Early 🐤** 
+**I'm an early 🐤** 
 
 ```text
 🌞 Morning    369 commits    ████████████░░░░░░░░░░░░░   48.87% 
@@ -101,7 +100,7 @@
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm most productive on Sunday** 
 
 ```text
 Monday       97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
@@ -115,7 +114,7 @@ Sunday       157 commits    █████░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 💬 Programming Languages: 
@@ -135,7 +134,7 @@ Windows                  9 mins              █░░░░░░░░░░�
 
 ```
 
-**I Mostly Code in Python** 
+**💻 I mostly code in Python** 
 
 ```text
 Python                   4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
@@ -152,7 +151,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 07:35:48 UTC
+ Last Updated on 12/06/2022 07:43:53 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
