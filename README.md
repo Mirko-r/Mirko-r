@@ -87,7 +87,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 465 Contributions in the Year 2022
+> 🏆 463 Contributions in the Year 2022
  > 
 > 📦 359.0 kB Used in GitHub's Storage 
  > 
@@ -156,7 +156,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2022 21:26:50 UTC
+ Last Updated on 16/06/2022 21:38:05 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
