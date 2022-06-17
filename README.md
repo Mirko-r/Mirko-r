@@ -2,9 +2,7 @@
  
 <div align="center">
  
-![helllo](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mirko+Rovere&center=true&size=30)
-
-![gif](https://github.com/M0-san/M0-san/blob/master/coding.gif?raw=true)
+ [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Mirko-r&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Social&height=150&fontSize=60)
  
@@ -124,19 +122,18 @@ Sunday       156 commits    █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        18 mins             ████████░░░░░░░░░░░░░░░░░   34.21% 
-Rust                     15 mins             ███████░░░░░░░░░░░░░░░░░░   29.15% 
-udevrules                8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.05%
+C                        18 mins             ███████░░░░░░░░░░░░░░░░░░   28.19% 
+Rust                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.02% 
+JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
+udevrules                8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.87%
 
 🔥 Editors: 
-Vim                      40 mins             ██████████████████░░░░░░░   75.49% 
-VS Code                  13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.51%
+Vim                      51 mins             ████████████████████░░░░░   80.06% 
+VS Code                  12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.94%
 
 💻 Operating System: 
-Linux                    52 mins             █████████████████████████   99.69% 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+Linux                    1 hr 4 mins         █████████████████████████   100.0%
 
 ```
 
@@ -157,7 +154,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/06/2022 07:55:10 UTC
+ Last Updated on 16/06/2022 21:08:43 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
