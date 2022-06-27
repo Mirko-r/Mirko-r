@@ -82,7 +82,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2054%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -96,11 +96,11 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
+Monday       98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.98% 
 Tuesday      116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.36% 
 Wednesday    90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
 Thursday     72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.54% 
-Friday       139 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.41% 
+Friday       138 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.28% 
 Saturday     85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.26% 
 Sunday       156 commits    █████░░░░░░░░░░░░░░░░░░░░   20.66%
 
@@ -128,7 +128,7 @@ Linux                    1 hr 46 mins        █████████░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/06/2022 10:33:49 UTC
+ Last Updated on 27/06/2022 10:48:57 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
