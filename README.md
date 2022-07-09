@@ -126,7 +126,7 @@ Windows                  1 hr 1 min          ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/07/2022 18:50:03 UTC
+ Last Updated on 09/07/2022 18:56:41 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
