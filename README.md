@@ -128,7 +128,7 @@ Windows                  9 mins              ███████░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/07/2022 10:29:59 UTC
+ Last Updated on 17/07/2022 10:40:17 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
