@@ -111,10 +111,10 @@ Sunday       156 commits    █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vim Script               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
@@ -123,7 +123,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/08/2022 21:54:05 UTC
+ Last Updated on 07/08/2022 22:28:03 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
