@@ -127,7 +127,7 @@ Linux                    6 hrs 57 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/08/2022 23:09:31 UTC
+ Last Updated on 29/08/2022 23:32:59 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
