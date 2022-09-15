@@ -82,7 +82,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%208%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -123,7 +123,7 @@ Linux                    22 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/09/2022 10:35:41 UTC
+ Last Updated on 15/09/2022 10:53:22 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
