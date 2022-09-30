@@ -111,12 +111,10 @@ Sunday       163 commits    █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               45 mins             ███████████████████░░░░░░   78.51% 
-CSS                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.33%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    57 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -125,7 +123,7 @@ Linux                    57 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/09/2022 22:10:25 UTC
+ Last Updated on 30/09/2022 22:35:26 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
