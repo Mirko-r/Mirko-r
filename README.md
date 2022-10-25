@@ -82,7 +82,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2045%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -111,11 +111,13 @@ Sunday       163 commits    █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vim Script               8 mins              █████████████░░░░░░░░░░░░   54.62% 
-zsh                      7 mins              ███████████░░░░░░░░░░░░░░   45.38%
+Vim Script               8 mins              █████████░░░░░░░░░░░░░░░░   36.24% 
+zsh                      7 mins              ███████░░░░░░░░░░░░░░░░░░   30.1% 
+TOML                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   23.15% 
+sshconfig                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.51%
 
 💻 Operating System: 
-Linux                    15 mins             █████████████████████████   100.0%
+Linux                    23 mins             █████████████████████████   100.0%
 
 ```
 
@@ -124,7 +126,7 @@ Linux                    15 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/10/2022 22:11:10 UTC
+ Last Updated on 25/10/2022 22:37:14 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
