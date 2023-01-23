@@ -111,10 +111,10 @@ Sunday       161 commits    █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -123,7 +123,7 @@ Windows                  7 mins              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2023 23:08:26 UTC
+ Last Updated on 23/01/2023 23:24:28 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
