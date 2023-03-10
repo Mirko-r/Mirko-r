@@ -124,7 +124,7 @@ Windows                  1 hr 59 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mirko-r/Mirko-r/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2023 06:31:45 UTC
+ Last Updated on 10/03/2023 06:46:32 UTC
 <!--END_SECTION:waka-->
 
 ![built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)
