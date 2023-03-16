@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/stupidamentepod)
+[![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mirkorovere)
 
 </div>
 
