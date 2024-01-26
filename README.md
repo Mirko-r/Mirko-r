@@ -1,9 +1,7 @@
 #
  
 <div align="center">
- 
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Mirko-r&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
- [![Mirko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirko-r)](https://github.com/anuraghazra/github-readme-stats)
+  [![Mirko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirko-r)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&layout=compact)
 
