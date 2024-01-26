@@ -4,8 +4,7 @@
  
  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Mirko-r&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Social&height=150&fontSize=60)
  
 [![instagram.com](https://img.shields.io/badge/Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mirko_rovere/)
