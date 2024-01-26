@@ -4,9 +4,6 @@
  
 ![image](https://github.com/Mirko-r/Mirko-r/assets/64952483/214030a1-7dca-4dfd-abfe-5605fbdff8ff)
 
- 
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Mirko-r&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&layout=compact)
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Social&height=150&fontSize=60)
