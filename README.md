@@ -2,7 +2,18 @@
  
 <div align="center">
  
-![image](https://github.com/Mirko-r/Mirko-r/assets/64952483/214030a1-7dca-4dfd-abfe-5605fbdff8ff)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mirko
+=============================================================================================================================
+
+Developer
+---------
+
+* 🌍  I'm based in Italy
+* 🖥️  See my portfolio at [Portfolio](http://mirko-r.github.io)
+* ✉️  You can contact me at [rovere04@gmail.com](mailto:rovere04@gmail.com)
+
+<a href="https://www.github.com/Mirko-r" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Mirko-r?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&layout=compact)
 
