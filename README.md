@@ -25,7 +25,7 @@ Developer
 
 </div>
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Language&height=150&fontSize=60&desc=That%20I%20Know&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My%20Tech&height=150&fontSize=60&desc=stack&descAlignY=75&descAlign=60)
 
 <div align="center">
 
@@ -40,12 +40,9 @@ Developer
 ![Shell Script](https://img.shields.io/badge/shell_script-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%23000000.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-%23000000.svg?style=for-the-badge&logo=C#&logoColor=white)
+
  
-</div>
-
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=OS&height=150&fontSize=60&desc=That%20I%20Know&descAlignY=75&descAlign=60)
-
-<div align="center">
 
 ![android](https://img.shields.io/badge/Android-%23000000?style=for-the-badge&logo=android&logoColor=white) 
 ![windows](https://img.shields.io/badge/Windows-%23000000?style=for-the-badge&logo=windows&logoColor=white) 
