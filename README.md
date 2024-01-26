@@ -23,6 +23,7 @@ Developer
 [![google podcast](https://img.shields.io/badge/Google_Podcasts-%23000000?style=for-the-badge&logo=google-podcasts&logoColor=white)](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zZTQ0ZTMzMC9wb2RjYXN0L3Jzcw==)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirko-rovere-695a67203)
 
+
 </div>
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My%20Tech&height=150&fontSize=60&desc=stack&descAlignY=75&descAlign=60)
@@ -30,23 +31,23 @@ Developer
 <div align="center">
 
 ![Arduino](https://img.shields.io/badge/-Arduino-%23000000?style=for-the-badge&logo=Arduino&logoColor=white) 
-![C](https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white) 
+![C](https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=%2361DAFB) 
+![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=%231572B6) 
+![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26) 
+![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=&logoColor=%23ED8B00) 
+![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-%23000000?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-%23000000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%23000000.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%23000000.svg?style=for-the-badge&logo=kotlin&logoColor=%237F52FF)
 ![C#](https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-%23000000?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/react-%23000000?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
- 
-
-![android](https://img.shields.io/badge/Android-%23000000?style=for-the-badge&logo=android&logoColor=white) 
+![android](https://img.shields.io/badge/Android-%23000000?style=for-the-badge&logo=android&logoColor=3DDC84) 
 ![windows](https://img.shields.io/badge/Windows-%23000000?style=for-the-badge&logo=windows&logoColor=white) 
-![linux](https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=black) 
+![linux](https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=FCC624) 
 
 </div>
 
