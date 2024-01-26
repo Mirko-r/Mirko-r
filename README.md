@@ -64,7 +64,7 @@
 
 <div align="center">
 
-[![Mirko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirko-r&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Mirko-r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirko-r&show_icons=true)
 
  
 ![](./profile-3d-contrib/profile-green-animate.svg)
