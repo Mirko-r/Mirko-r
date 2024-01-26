@@ -64,7 +64,7 @@
 
 <div align="center">
 
-![Mirko-r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirko-r&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Mirko-r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirko-r&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)
 
  
 ![](./profile-3d-contrib/profile-green-animate.svg)
