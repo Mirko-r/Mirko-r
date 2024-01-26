@@ -2,7 +2,7 @@
  
 <div align="center">
  
-[![Mirko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirko-r)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Mirko-r&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&layout=compact)
 
@@ -63,6 +63,9 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Github&height=150&fontSize=60&desc=Stats&descAlignY=75&descAlign=60)
 
 <div align="center">
+
+[![Mirko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirko-r)](https://github.com/anuraghazra/github-readme-stats)
+
  
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
