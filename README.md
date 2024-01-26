@@ -40,7 +40,7 @@ Developer
 ![Shell Script](https://img.shields.io/badge/shell_script-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%23000000.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/csharp-%23000000.svg?style=for-the-badge&logo=C#&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
  
 
