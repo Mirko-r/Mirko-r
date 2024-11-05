@@ -11,9 +11,12 @@ Developer
 * ✉️  You can contact me at [rovere04@gmail.com](mailto:rovere04@gmail.com)
 
 -------- 
+
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Top%20used&height=150&fontSize=60&desc=languages&descAlignY=75&descAlign=60)
+
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Social&height=150&fontSize=60)
  
