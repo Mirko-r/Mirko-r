@@ -3,29 +3,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mirko
 =============================================================================================================================
 
-Developer
----------
-
-* 🌍  I'm based in Italy
-* 🖥️  See my portfolio at [Portfolio](http://mirko-r.github.io)
-* ✉️  You can contact me at [rovere04@gmail.com](mailto:rovere04@gmail.com)
-
 -------- 
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Top%20used&height=150&fontSize=60&desc=languages&descAlignY=75&descAlign=60)
 
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Social&height=150&fontSize=60)
  
-[![instagram.com](https://img.shields.io/badge/Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mirko_rovere/)
-[![reddit](https://img.shields.io/badge/Reddit-%23000000?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/mirkou)
-[![spotify](https://img.shields.io/badge/Spotify-%23000000?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/58cchaSIqWwuQ9pRYeX4kY)
-[![google podcast](https://img.shields.io/badge/Google_Podcasts-%23000000?style=for-the-badge&logo=google-podcasts&logoColor=white)](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zZTQ0ZTMzMC9wb2RjYXN0L3Jzcw==)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirko-rovere-695a67203)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&langs_count=10&exclude_repo=mirko-r.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -54,14 +38,6 @@ Developer
 
 </div>
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Visitor's&height=150&fontSize=60&desc=Count&descAlignY=75&descAlign=60)
-
-<div align="center">
-
-![Mirko :: Visitor's count](https://profile-counter.glitch.me/{Mirko-r}/count.svg)
-
-</div>
-
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My&height=150&fontSize=60&desc=Trophies&descAlignY=75&descAlign=60)
 
 <div align="center">
@@ -74,7 +50,17 @@ Developer
 
 <div align="center">
 
-![Mirko-r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirko-r&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Miko-r&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Mirko-r&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mirko-r&show_icons=true" />
+</picture>
 
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirko-r&theme=github_dark)
