@@ -15,28 +15,63 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My%20Tech&height=150&fontSize=60&desc=stack&descAlignY=75&descAlign=60)
 
+<br clear="both">
+
 <div align="center">
-
-![Arduino](https://img.shields.io/badge/-Arduino-%23000000?style=for-the-badge&logo=Arduino&logoColor=white) 
-![C](https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=%2361DAFB) 
-![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=%231572B6) 
-![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26) 
-![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=&logoColor=%23ED8B00) 
-![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-%23000000?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%23000000.svg?style=for-the-badge&logo=kotlin&logoColor=%237F52FF)
-![C#](https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-%23000000?style=for-the-badge&logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/react-%23000000?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-![android](https://img.shields.io/badge/Android-%23000000?style=for-the-badge&logo=android&logoColor=3DDC84) 
-![windows](https://img.shields.io/badge/Windows-%23000000?style=for-the-badge&logo=windows&logoColor=white) 
-![linux](https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=FCC624) 
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="40" alt="datagrip logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rider" height="40" alt="rider logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
 </div>
+
+###
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My&height=150&fontSize=60&desc=Trophies&descAlignY=75&descAlign=60)
 
@@ -62,8 +97,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://github-readme-stats.vercel.app/api?username=Mirko-r&show_icons=true" />
 </picture>
 
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirko-r&theme=github_dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mirko-r&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
