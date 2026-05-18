@@ -9,7 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div align="center">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirko-r&langs_count=10&exclude_repo=mirko-r.github.io)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mirko-r&theme=holi)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mirko-r&theme=holi)
 
 </div>
 
@@ -85,19 +86,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div align="center">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Miko-r&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Mirko-r&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mirko-r&show_icons=true" />
-</picture>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mirko-r&theme=holi&utcOffset=1)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mirko-r&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirko-r&theme=holi)
 
 </div>
 
